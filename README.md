@@ -135,8 +135,141 @@ First, let’s identify and analyze the key financial metrics essential for eval
 - **Marketing Cost:** Marketing Cost encompasses the expenses Crunchy Corner invests in advertising, brand promotions, digital campaigns, and other marketing activities aimed at raising brand awareness, reaching new customers, and retaining loyal ones. This could include social media ads, TV commercials, billboards, and promotional events.
 
 - **Fixed and Variable Costs:**
-    - Fixed Costs: These are the expenses that do not change regardless of the restaurant’s sales volume. For Crunchy Corner, fixed costs include rent for restaurant locations, salaries for management and permanent staff, and utility bills that are constant over time.
-    - Variable Costs: These are expenses that fluctuate depending on the volume of sales. For Crunchy Corner, variable costs include raw materials, and transportation costs that vary based on the number of meals sold and orders processed.
+    - **Fixed Costs:** These are the expenses that do not change regardless of the restaurant’s sales volume. For Crunchy Corner, fixed costs include rent for restaurant locations, salaries for management and permanent staff, and utility bills that are constant over time.
+    - **Variable Costs:** These are expenses that fluctuate depending on the volume of sales. For Crunchy Corner, variable costs include raw materials, and transportation costs that vary based on the number of meals sold and orders processed.
+
+- **General and Administrative Costs:** General and Administrative (G&A) Costs for Crunchy Corner involve overhead expenses necessary for running the business. These costs include office expenses, salaries for corporate staff, legal fees, insurance, and other administrative functions that support the overall operations of the company but are not directly tied to food production or sales.
+
+- **Sales and Distribution Costs:** Sales and Distribution Costs include the expenses incurred in delivering products to customers and managing sales. This includes the costs of transportation, delivery services, and the expenses related to running the sales process at each restaurant. These costs ensure that products are efficiently distributed to meet customer demand.
+
+## Now that we’ve covered the key metrics, let’s dive into the year-wise analysis of net revenue from the financial year 2020 to 2024.
+Let’s First analyze in which year, quarter, and month, the company generated the highest Net Revenue.
+
+<img width="1200" height="593" alt="unnamed (9)" src="https://github.com/user-attachments/assets/07d3cbad-c4a6-40cc-bad0-2616fa8e983e" />
+
+**_The highest Net Revenue was recorded in the financial year 2023._**
+
+<img width="1200" height="594" alt="unnamed (10)" src="https://github.com/user-attachments/assets/fddb5f69-919f-40cd-a0e4-d874d7761dde" />
+
+_**On analyzing the quarterly Net Revenue for 2023, it is clear that the company reached its peak revenue of 30.8M in Quarter 3.**_
+
+<img width="1200" height="593" alt="unnamed (11)" src="https://github.com/user-attachments/assets/c39face9-eb9b-4bec-8ab6-7fbc1e5b3d0d" />
+
+_**Within Quarter 3, the month of August stood out, achieving the highest Net Revenue of 12.4M.**_
+
+<img width="1200" height="593" alt="unnamed (12)" src="https://github.com/user-attachments/assets/a585a07b-2ff7-42aa-8f7e-a01705d7ec4f" />
+
+_**This is the month-wise Net Revenue for the year 2023.**_
+
+Next, let’s examine the Net Revenue across all years and the year-over-year (YOY) Net Revenue of the company.
+
+<img width="388" height="351" alt="image" src="https://github.com/user-attachments/assets/9fed70c1-3080-4c0c-bdf0-5afcd6fbc469" />
+
+Similarly, let’s visualize the quarterly Net Revenue from the financial year 2020 to 2024.
+
+<img width="422" height="687" alt="image" src="https://github.com/user-attachments/assets/5f68ca8e-b5ec-4a2a-a82d-a2488c016570" />
+
+Below is the visualization chart for the Income Statement Flow from Net Revenue (NR) to Profit After Tax (PAT). This flow outlines how a company’s revenue is transformed into its final profit through the subtraction of various costs and expenses at different levels.
+
+<img width="1200" height="458" alt="unnamed (13)" src="https://github.com/user-attachments/assets/03a8dbe7-61ca-4e74-bd05-0ffa4c20f811" />
+
+Crunchy Corner operates across seven states in India, including Uttar Pradesh (UP), Maharashtra (MH), Gujarat (GUJ), Karnataka, West Bengal (Calcutta), and Tamil Nadu. Let’s delve into the state-wise Net Revenue contribution to understand how each region drives the company’s overall performance.
+
+<img width="1200" height="617" alt="unnamed (14)" src="https://github.com/user-attachments/assets/155c9089-fb08-4ba4-be41-a3d047de0c1e" />
+
+_**Observations reveal that Uttar Pradesh (UP) contributes the highest Net Revenue of 193.33M, while Tamil Nadu records the lowest Net Revenue contribution of 3.72M among all the states where Crunchy Corner operates.**_
+
+Now, let’s examine the Income Statement Flow from Net Revenue (NR) to Profit After Tax (PAT) at the state level to understand the financial performance and profitability of each region.
+
+<img width="1200" height="467" alt="unnamed (15)" src="https://github.com/user-attachments/assets/04bedbfc-d729-49b9-ab48-e6409f2d5578" />
+
+Crunchy Corner utilizes nine distinct distribution channels to sell its products: Direct Sales, Bulk Sales, Culinary Service, Distributor, External Sales, Domestic Sales, Online Sales, Others, and MFG Sales. Let’s identify which distribution channel contributes the highest Net Revenue.
+
+<img width="1200" height="612" alt="unnamed (16)" src="https://github.com/user-attachments/assets/2f45f40b-f96c-4206-8d19-cd7795db1fe3" />
+
+_**As observed, Direct Sales contribute the most to the Net Revenue, followed closely by Bulk Sales.**_
+
+Crunchy Corner, being a large fast-food distribution chain, assigns Cluster Heads to manage and oversee operations across different regions, ensuring efficient business functioning and optimized performance. Let’s now analyze the Net Revenue by Cluster Heads to gain valuable insights into Crunchy Corner’s overall performance under each cluster head.
+
+<img width="1200" height="538" alt="unnamed (17)" src="https://github.com/user-attachments/assets/5b04f8ef-3ba0-495e-8bb0-10310fa0a47d" />
+
+**_It appears that under Cluster Head Umar, the highest Net Revenue is being generated, indicating strong performance and efficient management strategies being implemented by Umar._**
+
+As Crunchy Corner is a renowned fast-food restaurant chain with the largest SKU base in the industry, it offers products across nine different categories. Let’s now analyze the Net Revenue by SKU category to understand which categories contribute the most to the company’s overall revenue.
+
+<img width="1200" height="537" alt="unnamed (18)" src="https://github.com/user-attachments/assets/2786b11b-dad5-4979-86fa-63fe177a98a3" />
+
+_**As observed, the Protein Pack category generates the highest Net Revenue, followed by Fresh Fare and Country Fries, contributing significantly to Crunchy Corner’s overall revenue.**_
+
+Now, let’s examine the Income Statement Flow from Net Revenue (NR) to Profit After Tax (PAT) at the Category level to understand the financial performance and profitability of each category.
+
+<img width="1200" height="465" alt="unnamed (19)" src="https://github.com/user-attachments/assets/14789bdc-d36f-4650-9d12-b1d1e0a5407f" />
+
+Now that we’ve completed the analysis of Crunchy Corner’s overall performance, let’s dive deeper into the cost analysis. By examining various costs such as raw material costs, marketing expenses, sales and distribution costs, and fixed and variable costs, we can gain a clearer understanding of the factors impacting profitability. This will allow us to identify areas for cost optimization, improve operational efficiency, and develop strategies to enhance overall financial performance in the long term.
+
+Below is the Cost Analysis Funnel Chart, which visualizes the various costs incurred by Crunchy Corner. The chart breaks down key cost categories, providing a clear view of how expenses.
+
+<img width="1200" height="586" alt="unnamed (20)" src="https://github.com/user-attachments/assets/7b33a4ae-ee18-4bfa-9fdf-8b0564e8dd4a" />
+
+Below is the chart for Marketing Costs by Category, providing a breakdown of the marketing expenses allocated to each product category.
+
+<img width="1200" height="601" alt="unnamed (21)" src="https://github.com/user-attachments/assets/06a069c2-33ca-4251-8ef8-4d6254b51a8b" />
+
+**As we can observe, the top-performing category, Protein Pack, is also responsible for generating the highest marketing cost, which is in line with the increased efforts to promote and drive sales in this high-revenue category.**
+
+_**In the Cost Analysis Funnel, we observed that Raw Material Costs account for the highest percentage of total costs. To better understand its impact on Crunchy Corner’s profitability, let’s take a deeper dive into the Raw Material Cost.**_
+
+<img width="1200" height="465" alt="unnamed (23)" src="https://github.com/user-attachments/assets/23bc4b1b-3a04-4173-afc2-e26fb7b35529" />
+
+_**The Raw Material Cost Represented by the line chart, shows slight fluctuations. The peak occurs in 2023, indicating the highest raw material cost during this period.**_
+
+_**In 2024, there is a visible decline in raw material costs compared to 2023, which might reflect better cost control or reduced material requirements.**_
+
+In this problem statement, we are provided with both actual data and the target/budget of the company. This dual dataset allows us to compare and evaluate the company’s performance against the set goals, identifying any variances. Let’s deep dive into it —
+
+Firstly, let’s analyze YOY Net Revenue for both actual and budget data
+
+<img width="1200" height="463" alt="unnamed (24)" src="https://github.com/user-attachments/assets/b64fe387-ae83-4e90-a8d0-cf7e96992b52" />
+
+- **NR** — Net Revenue (Actual)
+- **B NR** — Net Revenue (Budget)
+- **YOY NR B%** — YOY NR % (Budget)
+
+**_In 2021 and 2022, the actual NR is closer to the budget, reflecting better alignment with financial projections._**
+
+**_In 2023, actual NR not only fails to meet the budget but also reflects a dip in performance, as shown by the steep YoY decline._**
+
+**_2024 continues to show a gap, but the negative YoY change indicates a gradual performance improvement._**
+
+Now, let’s analyze and compare the Year-over-Year (YoY) Net Revenue for actual and budgeted data across categories.
+
+<img width="1200" height="466" alt="unnamed (25)" src="https://github.com/user-attachments/assets/e518e123-52a6-4703-8582-7bc53eb3922f" />
+
+_**Protein Pack is the highest revenue generating category with Actual NR at 221M and Budgeted NR at 259M. However, there is a significant -14.42% YoY decline in Budgeted NR, indicating potential challenges in sustaining growth.**_
+
+_**Fresh Fare and Country Fries categories exhibit modest revenue levels (82M and 76M, respectively), and their YoY Budget NR % indicates steady growth (+8.57% and +11.81%, respectively).**_
+
+_**Cake and Sweet Crust categories exhibit the lowest net revenue levels with declining YoY Budget percentages of -14.28% and -9.87%, respectively.**_
+
+Next, I am going to perform a PVM (Price, Volume, Mix) Analysis. It is a method used to analyze and understand the changes in a company’s revenue and profitability by breaking down the effects of three key factors:
+
+**- Price:** Analyzing how changes in the price of different products (SKUs) affect the overall Net Revenue. This helps in understanding the revenue generated from price adjustments across various product categories.
+
+**- Volume:** The volume effect looks at how changes in the number of units sold affect revenue.
+
+**- Mix:** The mixing effect examines how the combination of different products sold influences revenue.
+
+PVM is essential for businesses that want to dig deeper into their sales data. By understanding these three effects, companies can make better decisions. They can see if they need to adjust prices, boost sales volume, or change their product mix.
+
+<img width="1200" height="592" alt="unnamed (26)" src="https://github.com/user-attachments/assets/9b882243-a2af-40b8-b3a6-0ed3952aa3ae" />
+
+### Thank You for Reading!!
+
+
+
+
+
+
 
 
 
